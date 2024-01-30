@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "7adef209-0138-329c-b2a5-54f07b259062",
+    "name": "Limbo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c99f2b94-e0ad-3236-a703-535bfcdad26f",
+    "name": "Dmitry_Kardashov",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "25966168-dc9c-360c-8f32-ed022bfa1070",
+    "name": "Herobrine",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
